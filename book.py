@@ -1,6 +1,4 @@
 print(asas)
-adsadsadsad   asasas
-    a
-asasasa
-asdasdas
+a=1
+b=2
 
